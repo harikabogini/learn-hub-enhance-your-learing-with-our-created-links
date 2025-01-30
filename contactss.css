@@ -1,0 +1,30 @@
+#my-contact{
+    height:60vh;
+    display: flex;
+    flex-direction: column;
+     background-color:rgb(246, 244, 244); 
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+
+}
+
+#contact-title{
+    padding: 20px;
+    color:darkblue;
+    font-size:1.875rem;
+    font-family: sanserif;
+    font-weight: 700;
+    line-height: 1.25;
+    font-family: 'Times New Roman', Times, serif;
+    color:#a363aa;
+}
+#icons{
+    padding:25px;
+}
+#icons i{
+    font-size:25px;
+    color:black;
+    padding:10px;
+}
